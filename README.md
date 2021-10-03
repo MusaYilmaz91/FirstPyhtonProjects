@@ -1,2 +1,2 @@
 # FirstPyhtonProjects
- ıts a calculator
+ ıts a calculator , my first projects . I know this is easy to write but it's a start :) I'm calling out to my future self : "keep working for your dreams." I think I'll be laughing when I see this code again one day :D .
